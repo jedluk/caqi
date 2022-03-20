@@ -1,0 +1,22 @@
+{
+  "name": "caqi",
+  "version": "1.0.0",
+  "description": "AQI calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aqi",
+    "aqi converter",
+    "pm2.5",
+    "pm10",
+    "pollution"
+  ],
+  "author": "Jędrzej Łukasiuk",
+  "license": "MIT",
+  "types": "./index.d.ts",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
